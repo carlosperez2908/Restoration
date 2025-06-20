@@ -6,8 +6,5 @@ https://senace.sharepoint.com/:w:/s/070-OTI/ETZV1AP0mkhEui0PsrXTa2UBdq54fbyHg9qf
 
 https://odysee.com/$/verify?auth_token=6iYBhyNbiVc6JoGVMMc1JkEfu7VXtZJc&email=carlosperez.ceps%40gmail.com&needs_recaptcha=false&verification_token=BeRGMofAoU1eAEVuqa8zQWR1p9xm6SSt
 
-[19/6 5:21 p. m.] Ext 2504 - Miguel Salvador P.: Condeira por favor que si le pones sso.senace.gob.pe en produccion, en el supuesto que decia Luis de que reutilicemos un solo certificado. Cual seria la ruta con que llegarian a la Autogestion de usuarios? seria http://sso.senace.gob.pe/autogestion ?? Nos cerrariamos un poco a solo usarlo para el sso?
-[19/6 5:22 p. m.] Ext 2504 - Miguel Salvador P.: En lo personal pienso que deberiamos tener dos. Uno marcadamente separado y unico para SENACE puesto que sera transversal Y ahi si aplica el sso.senace.gob.pe y otro especifico para las aplicaciones
-[19/6 5:23 p. m.] Ext 2504 - Miguel Salvador P.: Quizas si tienen espacio mañana a las 9.30 nos sentamos y lo debatimos y tensremos una mejor sugerencia. Es vital por ello que Cesar indique si va a estar en el mismo servidor o no
-
+https://senace-my.sharepoint.com/:x:/g/personal/ltorres_senace_gob_pe/ESAtFjpgfCJEp6oPjuOhgmQBHX9uTvwt18Zx5V6MaAlfvg?e=oA9bEm
 
