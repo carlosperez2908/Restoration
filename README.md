@@ -1,8 +1,4 @@
-deUnirse a la reunión ahora 	
-Id. de reunión: 261 359 036 128 6 
-Código de acceso: Fb7BC2fy 
-
-https://senace.sharepoint.com/:w:/s/070-OTI/ETZV1AP0mkhEui0PsrXTa2UBdq54fbyHg9qfJ7XhuIYbLQ?e=crQQfj&xsdata=MDV8MDJ8Y3BlcmV6QHNlbmFjZS5nb2IucGV8MWYxMWJmNzEyOWM5NDc1NGZmZDcwOGRkYWU5YmEzNTR8ODk0N2MzZGQ2MjlmNDY2NTk1MWRjMzY4MWJhNTQyYTd8MHwwfDYzODg1ODcwNTY3MDg2NDYwMnxVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=cllCTmRPM3NPUTJyM2RPb0grM3ZmajcxY3ppVHlVTXg2UFVlaUt1b21nYz0%3d
+https://docs.google.com/presentation/d/1cAFkmInGA_WWASzkVQaC8qr0vDPqpnwd/edit?slide=id.p52#slide=id.p52
 
 https://odysee.com/$/verify?auth_token=6iYBhyNbiVc6JoGVMMc1JkEfu7VXtZJc&email=carlosperez.ceps%40gmail.com&needs_recaptcha=false&verification_token=BeRGMofAoU1eAEVuqa8zQWR1p9xm6SSt
 
