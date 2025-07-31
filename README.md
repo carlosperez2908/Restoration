@@ -1,3 +1,5 @@
+https://senace.sharepoint.com/sites/070-OTI/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fsites%2F070%2DOTI%2FDocumentos%20compartidos%2FOTI%202025%2FSistemas%2FEntregables%2FOS%20SSO
+
 https://docs.google.com/presentation/d/1cAFkmInGA_WWASzkVQaC8qr0vDPqpnwd/edit?slide=id.p52#slide=id.p52
 
 https://odysee.com/$/verify?auth_token=6iYBhyNbiVc6JoGVMMc1JkEfu7VXtZJc&email=carlosperez.ceps%40gmail.com&needs_recaptcha=false&verification_token=BeRGMofAoU1eAEVuqa8zQWR1p9xm6SSt
