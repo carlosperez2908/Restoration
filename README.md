@@ -7,3 +7,6 @@ https://odysee.com/$/verify?auth_token=6iYBhyNbiVc6JoGVMMc1JkEfu7VXtZJc&email=ca
 https://senace-my.sharepoint.com/:x:/g/personal/ltorres_senace_gob_pe/ESAtFjpgfCJEp6oPjuOhgmQBHX9uTvwt18Zx5V6MaAlfvg?e=oA9bEm
 
 https://senace-my.sharepoint.com/personal/ppachas_senace_gob_pe/_layouts/15/onedrive.aspx?CID=69fc305c%2D3597%2D4d06%2Db335%2D8dddabc770e7&id=%2Fpersonal%2Fppachas%5Fsenace%5Fgob%5Fpe%2FDocuments%2FGrabaciones&FolderCTID=0x0120003935EF39191D5B4AA1209557AEFFDEE3&view=0
+
+https://eva.senace.gob.pe:8443/AppIntegracionCMIS/rest/WebServiceECM/DownloadByGet?docId=947d2fdf-3d0c-4d56-9b80-85ae13b016f9
+https://eva.senace.gob.pe:8443/AppIntegracionCMIS/rest/WebServiceECM/DownloadByGet?a6d4e954-b003-44ff-97b1-8044be654b38
